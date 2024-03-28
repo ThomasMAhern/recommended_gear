@@ -27,6 +27,8 @@ Electronic/Every Day Carry(EDC)/Camping/Travel gear that is most efficient
 |[STATGEAR Pocket Samurai Folding Tanto Micro Knife](https://a.co/d/1qENZdH)|knife|edc|Tiny, long|
 |[Nitecore NU25 USB-C headlamp](https://a.co/d/ft1enHN)|light|edc|UL, tiny|
 |[Klymit 20L Day Pack](https://a.co/d/gD8vxic)|day pack|edc|wide opening holds more than similar packs|
+|[Sparrows Hold Out Keys](https://www.sparrowslockpicks.com/products/hold-out-keys)|keys/picks|edc|lock picks hidden in plain sight|
+|[Sparrows Chaos Card](https://www.sparrowslockpicks.com/products/chaos-card)|picks|edc|credit card of lock picking usefulness|
 |[OWS2 Open Ear Headphones](https://a.co/d/fUiNcpy)|headphones|edc|doesn't block sound, but can wear one|
 |[Tarptent Moment DW with crossing poles](https://www.tarptent.com/product/blem-moment-dw-li/)|tent|camping|free standing, ultra fast, ultra portable, tiny|
 |[H2Go Water Purifier](https://store.h2gopurifier.com/)|water|camping|emergency|
@@ -39,3 +41,4 @@ Electronic/Every Day Carry(EDC)/Camping/Travel gear that is most efficient
 |[Fozzils Snapfold bowls plates](https://a.co/d/czs90NM)|plates|camping| |
 |[Govee Bluetooth Hygrometer](https://a.co/d/21H5RVL)/Thermometer|thermometer|camping|data of highs and lows|
 |[Firebiner](https://a.co/d/5idoPZ3)|carabiner fire starter|camping|fire|
+
